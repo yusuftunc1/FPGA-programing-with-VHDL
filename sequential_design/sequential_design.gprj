@@ -1,0 +1,13 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2AR-18C" pn="GW2AR-LV18QN88C8/I7">gw2ar18c-000</Device>
+    <FileList>
+        <File path="src/gate_level_seq.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gate_level_seq_rst.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/gate_level_seq_rst_pipe.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/sequential_design.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

@@ -1,0 +1,26 @@
+[
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq.vhd",
+  "InstLine" : 4,
+  "InstName" : "gate_level_seq",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "gate_level_seq"
+ },
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq_rst.vhd",
+  "InstLine" : 4,
+  "InstName" : "gate_level_seq_rst",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq_rst.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "gate_level_seq_rst"
+ },
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq_rst_pipe.vhd",
+  "InstLine" : 4,
+  "InstName" : "gate_level_seq_rst_pipe",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/sequential_design/src/gate_level_seq_rst_pipe.vhd",
+  "ModuleLine" : 4,
+  "ModuleName" : "gate_level_seq_rst_pipe"
+ }
+]
