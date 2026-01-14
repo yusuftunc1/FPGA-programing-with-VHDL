@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/block_RAM/src/single_port_BRAM.vhd",
+  "InstLine" : 5,
+  "InstName" : "block_ram_gen",
+  "ModuleFile" : "C:/Users/yusuf/Desktop/FPGA/Projects/block_RAM/src/single_port_BRAM.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "block_ram_gen"
+ }
+]

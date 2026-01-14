@@ -1,0 +1,9 @@
+GowinSynthesis start
+Running parser ...
+Analyzing VHDL file 'C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd'
+Analyzing entity 'block_ram_gen'("C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd":5)
+Analyzing architecture 'behavioral'("C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd":20)
+Processing 'block_ram_gen(Behavioral)'("C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd":5)
+Extracting RAM for identifier 'ram'("C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd":23)
+WARN  (EX4196) : Comparison between unequal length arrays always returns FALSE, left argument length 11 is different from right argument length 10 for 'string' array("C:\Users\yusuf\Desktop\FPGA\Projects\block_RAM\src\single_port_BRAM.vhd":27)
+NOTE  (EX0101) : Current top module is "block_ram_gen"
